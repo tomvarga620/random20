@@ -1,3 +1,8 @@
+/*Roman Špak
+ ja by som na tomto projekte nemenil asi nič je to v poriadku uloha a verified a splnena
+ */
+
+
 import java.util.*;
 
 public class Main {
